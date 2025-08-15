@@ -2,7 +2,6 @@
 - 👀 I’m interested in optimization and ml
 - 🌱 I’m currently studying computer science and mathematics at MIT '28
 - 📫 How to reach me ... LunaticTang06@gmail.com
-- 😄 Pronouns: Any/All
 - ⚡ Fun fact: My favorite kind of weather is rain.
 
 <!---
